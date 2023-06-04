@@ -1,0 +1,34 @@
+site_name: ivan.chubb.dev
+site_author: Ivan Chubb
+site_url: https://ivan.chubb.dev
+repo_name: ivanchubb/ivan.chubb.dev
+repo_url: https://github.com/ivanchubb/ivan.chubb.dev
+
+theme:
+  name: "material"
+  favicon: "assets/images/favicon-lock-16.png"
+  icon:
+    logo: material/home
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+markdown_extensions:
+  # allows default icons with ":icon-name:" syntax
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ivanchubb
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ivan-alexander-chubb-642396208/
