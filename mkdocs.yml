@@ -4,6 +4,12 @@ site_url: https://ivan.chubb.dev
 repo_name: ivanchubb/ivan.chubb.dev
 repo_url: https://github.com/ivanchubb/ivan.chubb.dev
 
+nav:
+  - index.md
+  - hobbies.md
+  - projects.md
+  - resume.md
+  
 theme:
   name: "material"
   favicon: "assets/images/favicon-lock-16.png"
