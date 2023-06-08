@@ -1,9 +1,7 @@
 # `whoami`
 
-Ivan Alexander Chubb
-
-ivanchubb@gmail.com
-
+Ivan Alexander Chubb<br>
+ivanchubb@gmail.com <br>
 Augusta, GA
 
 ## Career Summary
@@ -13,24 +11,17 @@ Cyber professional with 6 years of experience leading Information Technology tea
 ## Work Experience
 
 ### U.S. Army Cyber Schoolhouse (2021 - current)
-**Senior Systems Programming Instructor**
-
-- Train early and mid career software engineers in C, Python, Operating Systems, and project management
-  
-- Manage 11 employee team of instructors, cloud resources, and senior leader engagements.
-  
+**Senior Systems Programming Instructor** <br>
+- Train early and mid career software engineers in C, Python, Operating Systems, and project management <br>
+- Manage 11 employee team of instructors, cloud resources, and senior leader engagements. <br>
 - Provide technical counsel to unit leadership on new technologies
 
 ### U.S Army 3rd Armor Brigade Combat Team, 4th Infantry Division (2017 - 2021)
-**Communications Officer**
-
-- Ensure robust and secure tactical communications to a 3500 employee organization
-  
-- Develop and manage organization's communication equipment maintenance plan 
-  
-- Develop 20 employee IT team through technical and professional training
-  
-- Senior technical advisor to organization leadership on all things IT
+**Communications Officer** <br>
+- Ensure robust and secure tactical communications to a 3500 employee organization <br>
+- Develop and manage organization's communication equipment maintenance plan <br>
+- Develop 20 employee IT team through technical and professional training <br>
+- Senior technical advisor to organization leadership on all things IT <br>
   
 ## Certifications
 [![CISSP](assets/images/CISSP-119.png)](https://www.credly.com/badges/38235265-6571-48fb-9581-dd6303f9c649/public_url)
@@ -41,20 +32,16 @@ Cyber professional with 6 years of experience leading Information Technology tea
 [![Certified Scrum Master](assets/images/csm.png)](https://bcert.me/snppspknu)
 
 ## Education
-**University of Central Florida**
-
-**B.S. Mechanical Engineering** Class of 2017
-
+**University of Central Florida** <br>
+**B.S. Mechanical Engineering** (Class of 2017) <br>
 - Minor in Mathematics
 
 ## Computer Languages and Tools
-- Languages: C, Python, bash, and powershell
-  
-- Various tools from Kali's pentesting suite (nc, socat, nmap, wireshark, tcpdump, metasploit, ghidra, burpsuite gdb... etc)
-  
-- Windows: sysinternals, WSL2, Registry, WMIC, IDA Pro
-  
-- Misc: git, gitlab, docker, virtualbox, cmake, make, gcc, clang, and various SAST/linters/IDEs.
+
+- **Languages**: C, Python, bash, and powershell <br>
+- **Security Tooling**: Various tools from Kali's pentesting suite (nc, socat, nmap, wireshark, tcpdump, metasploit, ghidra, burpsuite gdb... etc) <br>
+- **Windows**: sysinternals, WSL2, Registry, WMIC, IDA Pro <br>
+- **Misc**: git, gitlab, docker, virtualbox, cmake, make, gcc, clang, and various SAST/linters/IDEs <br>
 
 ## Additional
 - Hobbies: [Capture The Flag competitions](https://github.com/ivanchubb/CTF-Writeups) and CAD/3d Printing
