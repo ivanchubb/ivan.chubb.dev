@@ -1,6 +1,4 @@
-# Welcome
-
-## About
+# About
 
 :material-security: I'm a cybersecurity professional with IT leadership, software engineering, and project management experience.
 

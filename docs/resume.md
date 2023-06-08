@@ -47,4 +47,4 @@ Cyber professional with 6 years of experience leading Information Technology tea
 - **Misc**: git, gitlab, docker, virtualbox, cmake, make, gcc, clang, and various SAST/linters/IDEs <br>
 
 ## Additional
-- Hobbies: [Capture The Flag competitions](https://github.com/ivanchubb/CTF-Writeups) and CAD/3d Printing
+- **Hobbies**: [Capture The Flag competitions](https://github.com/ivanchubb/CTF-Writeups) and CAD/3d Printing
