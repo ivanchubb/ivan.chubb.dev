@@ -11,17 +11,19 @@ Cyber professional with 6 years of experience leading Information Technology tea
 ## Work Experience
 
 ### U.S. Army Cyber Schoolhouse (2021 - current)
-**Senior Systems Programming Instructor** <br>
+**Senior Systems Programming Instructor**
+
 - Train early and mid career software engineers in C, Python, Operating Systems, and project management <br>
 - Manage 11 employee team of instructors, cloud resources, and senior leader engagements. <br>
 - Provide technical counsel to unit leadership on new technologies
 
 ### U.S Army 3rd Armor Brigade Combat Team, 4th Infantry Division (2017 - 2021)
-**Communications Officer** <br>
-- Ensure robust and secure tactical communications to a 3500 employee organization <br>
-- Develop and manage organization's communication equipment maintenance plan <br>
-- Develop 20 employee IT team through technical and professional training <br>
-- Senior technical advisor to organization leadership on all things IT <br>
+**Communications Officer** 
+
+- Ensured robust and secure tactical communications to a 3500 employee organization <br>
+- Developed and managed organization's communication equipment maintenance plan <br>
+- Developed a 20 employee IT team through technical and professional training <br>
+- Acted as Senior technical advisor to organization leadership on all things IT <br>
   
 ## Certifications
 [![CISSP](assets/images/CISSP-119.png)](https://www.credly.com/badges/38235265-6571-48fb-9581-dd6303f9c649/public_url)
@@ -33,7 +35,8 @@ Cyber professional with 6 years of experience leading Information Technology tea
 
 ## Education
 **University of Central Florida** <br>
-**B.S. Mechanical Engineering** (Class of 2017) <br>
+**B.S. Mechanical Engineering** (Class of 2017)
+
 - Minor in Mathematics
 
 ## Computer Languages and Tools
