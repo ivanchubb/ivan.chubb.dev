@@ -8,11 +8,12 @@ nav:
   - index.md
   - hobbies.md
   - projects.md
+  - CTF-Writeups/README.md
   - resume.md
   
 theme:
   name: "material"
-  favicon: "assets/images/favicon-lock-16.png"
+  favicon: "assets/images/favicon-lock-96.png"
   icon:
     logo: material/home
   palette:
@@ -24,7 +25,9 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
+  features:
+    - navigation.instant
+    
 markdown_extensions:
   # allows default icons with ":icon-name:" syntax
   - attr_list

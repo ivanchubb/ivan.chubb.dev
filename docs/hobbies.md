@@ -8,7 +8,7 @@
 
 CTFs are a fun way to force yourself into creative thinking, break up the monotony of structured training, and gamify learning. Sometimes they can be [awesome](https://www.youtube.com/watch?v=L2C8rVO2lAg), and other times they can be [terrible](https://www.youtube.com/watch?v=lxJpKUoX-6E), but i've never walked away from one without learning something new.
 
-I like to codify my solves in [write-ups](https://github.com/ivanchubb/CTF-Writeups), as it helps me remember what I did to solve the challenge and also serves as a nice trophy when the competition is over.
+I like to codify my solves in [write-ups](CTF-Writeups/README.md), as it helps me remember what I did to solve the challenge and also serves as a nice trophy when the competition is over.
 
 Here are some of my favorite CTF-like websites:
 
