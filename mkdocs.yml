@@ -8,7 +8,6 @@ nav:
   - index.md
   - hobbies.md
   - projects.md
-  - CTF-Writeups/README.md
   - resume.md
   
 theme:
