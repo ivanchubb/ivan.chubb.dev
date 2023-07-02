@@ -29,8 +29,8 @@ Cyber professional with 6 years of experience leading Information Technology tea
 [![CISSP](assets/images/CISSP-119.png)](https://www.credly.com/badges/38235265-6571-48fb-9581-dd6303f9c649/public_url)
 [![CCNA](assets/images/ccna-120.png)](https://www.credly.com/badges/cd961607-80ae-49d9-bdeb-b89a06c5b2a7/public_url)
 [![CYSA+](assets/images/CYSA-120.png)](https://www.credly.com/badges/ad4fb8e5-5451-455c-a4da-26e00e0dd66e/public_url)
-![Network+](assets/images/sec_plus.png)
-![Network+](assets/images/net_plus.png)
+[![Network+](assets/images/sec_plus.png)](https://www.credly.com/badges/e1ad677d-0cfd-4261-ba08-9f69d5a6155f/public_url)
+[![Security+](assets/images/net_plus.png)](https://www.credly.com/badges/6582eccb-da3d-4c0d-a86c-3a3da71d701f/public_url)
 [![Certified Scrum Master](assets/images/csm.png)](https://bcert.me/snppspknu)
 
 ## Education
@@ -42,7 +42,7 @@ Cyber professional with 6 years of experience leading Information Technology tea
 ## Computer Languages and Tools
 
 - **Languages**: C, Python, bash, and powershell <br>
-- **Security Tooling**: Various tools from Kali's pentesting suite (nc, socat, nmap, wireshark, tcpdump, metasploit, ghidra, burpsuite gdb... etc) <br>
+- **Security Tooling**: Various tools from Kali's pentesting suite (nc, socat, nmap, wireshark, tcpdump, metasploit, ghidra, burpsuite, gdb... etc) <br>
 - **Windows**: sysinternals, WSL2, Registry, WMIC, IDA Pro <br>
 - **Misc**: git, gitlab, docker, virtualbox, cmake, make, gcc, clang, and various SAST/linters/IDEs <br>
 

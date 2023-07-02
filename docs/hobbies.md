@@ -4,6 +4,13 @@
 
 ## Science Fiction
 
+Top 5 books:
+1. Children of Time by Adrian Tchaikovsky
+2. The Forever War by Joe Haldeman
+3. Old Man's War by John Scalzi
+4. Ender's Game by Orson Scott Card
+5. Starship Troopers by Robert Heinlein
+
 ## Capture the Flags (CTFs)
 
 CTFs are a fun way to force yourself into creative thinking, break up the monotony of structured training, and gamify learning. Sometimes they can be [awesome](https://www.youtube.com/watch?v=L2C8rVO2lAg), and other times they can be [terrible](https://www.youtube.com/watch?v=lxJpKUoX-6E), but i've never walked away from one without learning something new.
