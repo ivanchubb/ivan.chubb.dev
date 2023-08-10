@@ -6,8 +6,8 @@ repo_url: https://github.com/ivanchubb/ivan.chubb.dev
 
 nav:
   - index.md
-  - hobbies.md
   - projects.md
+  - hobbies.md
   - resume.md
   
 theme:
@@ -30,6 +30,8 @@ theme:
 markdown_extensions:
   # allows default icons with ":icon-name:" syntax
   - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
