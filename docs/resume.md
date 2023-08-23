@@ -27,6 +27,8 @@ Cyber professional with 6 years of experience leading Information Technology tea
   
 ## Certifications
 [![CISSP](assets/images/CISSP-119.png)](https://www.credly.com/badges/38235265-6571-48fb-9581-dd6303f9c649/public_url)
+[![PMP](assets/images/pmp-200px.png)](https://www.credly.com/badges/c1ca7a42-b69a-4efe-9e45-64381449c046/public_url)
+[![PMI-ACP](assets/images/pmi-acp-200px.png)](https://www.credly.com/badges/18a57f81-516c-4532-87fe-d8a6956fc97c/public_url)
 [![CCNA](assets/images/ccna-120.png)](https://www.credly.com/badges/cd961607-80ae-49d9-bdeb-b89a06c5b2a7/public_url)
 [![CYSA+](assets/images/CYSA-120.png)](https://www.credly.com/badges/ad4fb8e5-5451-455c-a4da-26e00e0dd66e/public_url)
 [![Network+](assets/images/sec_plus.png)](https://www.credly.com/badges/e1ad677d-0cfd-4261-ba08-9f69d5a6155f/public_url)
