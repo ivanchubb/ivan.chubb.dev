@@ -31,8 +31,9 @@ Cyber professional with 6 years of experience leading Information Technology tea
 [![PMI-ACP](assets/images/pmi-acp-200px.png)](https://www.credly.com/badges/18a57f81-516c-4532-87fe-d8a6956fc97c/public_url)
 [![CCNA](assets/images/ccna-120.png)](https://www.credly.com/badges/cd961607-80ae-49d9-bdeb-b89a06c5b2a7/public_url)
 [![CYSA+](assets/images/CYSA-120.png)](https://www.credly.com/badges/ad4fb8e5-5451-455c-a4da-26e00e0dd66e/public_url)
-[![Network+](assets/images/sec_plus.png)](https://www.credly.com/badges/e1ad677d-0cfd-4261-ba08-9f69d5a6155f/public_url)
-[![Security+](assets/images/net_plus.png)](https://www.credly.com/badges/6582eccb-da3d-4c0d-a86c-3a3da71d701f/public_url)
+[![Network+](assets/images/net_plus.png)](https://www.credly.com/badges/e1ad677d-0cfd-4261-ba08-9f69d5a6155f/public_url)
+[![Security+](assets/images/sec_plus.png)](https://www.credly.com/badges/6582eccb-da3d-4c0d-a86c-3a3da71d701f/public_url)
+[![AWS CCP](assets/images/aws_ccp_132px.png)](https://www.credly.com/badges/0e2f8afc-13de-471a-bce4-19549980c727)
 [![Certified Scrum Master](assets/images/csm.png)](https://bcert.me/snppspknu)
 
 ## Education

@@ -4,6 +4,6 @@
 
 Officially, my job is to prepare early and mid career developers to perform in the organization at large.
 
-:detective: But really? I am a detective who finds people's hidden talents, and gives them the resources they need to reach their full potential :rocket:.
+:detective: But really? I am a detective who finds people's hidden talents, and gives them the support they need to reach their full potential. :rocket:.
 
 [Click here for my full resume](resume.md)
