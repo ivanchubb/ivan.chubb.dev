@@ -12,7 +12,7 @@ Cyber professional with 6 years of experience leading Information Technology tea
 
 ### DevSecOps Engineer (2024 - Present)
 
-- Project Manager for a DevSecOps framework of containers and pipelines that enables over 120 apps, 1000 developers, and 40 organizations
+- Project Manager and lead developer for a DevSecOps framework of containers and pipelines that enables over 120 apps, 1000 developers, and 40 organizations
 - Responsible for briefing senior leadership on how both policy and technical compliance can be automated
 
 ### U.S. Army Cyber Schoolhouse (2021 - 2024)
