@@ -10,12 +10,17 @@ Cyber professional with 6 years of experience leading Information Technology tea
 
 ## Work Experience
 
-### U.S. Army Cyber Schoolhouse (2021 - current)
+### DevSecOps Engineer (2024 - Present)
+
+- Project Manager for a DevSecOps framework of containers and pipelines that enables over 120 apps, 1000 developers, and 40 organizations
+- Responsible for briefing senior leadership on how both policy and technical compliance can be automated
+
+### U.S. Army Cyber Schoolhouse (2021 - 2024)
 **Senior Systems Programming Instructor**
 
 - Train early and mid career software engineers in C, Python, Operating Systems, and project management <br>
 - Manage 11 employee team of instructors, cloud resources, and senior leader engagements. <br>
-- Provide technical counsel to unit leadership on new technologies
+- Provide technical counsel to unit leadership on new technologies <br>
 
 ### U.S Army 3rd Armor Brigade Combat Team, 4th Infantry Division (2017 - 2021)
 **Communications Officer** 
@@ -45,9 +50,9 @@ Cyber professional with 6 years of experience leading Information Technology tea
 ## Computer Languages and Tools
 
 - **Languages**: C, Python, bash, and powershell <br>
-- **Security Tooling**: Various tools from Kali's pentesting suite (nc, socat, nmap, wireshark, tcpdump, metasploit, ghidra, burpsuite, gdb... etc) <br>
+- **Security Tooling**: Syft, Grype, ClamAV, Semgrep, and various tools from Kali's pentesting suite (nc, socat, nmap, wireshark, tcpdump, metasploit, ghidra, burpsuite, gdb... etc) <br>
 - **Windows**: sysinternals, WSL2, Registry, WMIC, IDA Pro <br>
-- **Misc**: git, gitlab, docker, virtualbox, cmake, make, gcc, clang, and various SAST/linters/IDEs <br>
+- **Misc**: git, gitlab CI/CD, docker, virtualbox, cmake, make, gcc, clang, and various SAST/linters/IDEs <br>
 
 ## Additional
 - **Hobbies**: [Capture The Flag competitions](https://github.com/ivanchubb/CTF-Writeups) and CAD/3d Printing
